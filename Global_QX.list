@@ -1,5 +1,5 @@
-HOST-SUFFIX,liquipedia.net
-HOST-SUFFIX,helltides.com
-HOST-SUFFIX,wallhaven.cc
-HOST-KEYWORD,jable
-HOST-KEYWORD,missav
+HOST-SUFFIX,liquipedia.net,Global
+HOST-SUFFIX,helltides.com,Global
+HOST-SUFFIX,wallhaven.cc,Global
+HOST-KEYWORD,jable,Global
+HOST-KEYWORD,missav,Global
